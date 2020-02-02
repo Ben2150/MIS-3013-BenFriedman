@@ -43,6 +43,8 @@ namespace HW1ReallyPt2
 
             Console.WriteLine(firstName + lastName + "(" + id + "), your final grade is" + finalgrade.ToString("F") + "%");
 
+            Console.WriteLine("Press any key to continue ...");
+
             Console.ReadKey();
 
 
